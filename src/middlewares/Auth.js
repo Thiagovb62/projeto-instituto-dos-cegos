@@ -15,4 +15,4 @@ module.exports = new JwtStrategy(
 
     return done(null, exists);
   },
-);
+);//
